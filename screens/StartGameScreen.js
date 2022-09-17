@@ -32,7 +32,7 @@ const styles = StyleSheet.create({
     marginTop: 100,
     marginHorizontal: 24,
     padding: 16,
-    backgroundColor: '#430323',
+    backgroundColor: '#2f0218',
     borderRadius: 8,
     shadowColor: 'black',
     shadowOffset: { width: 0, height: 2 },
@@ -53,7 +53,7 @@ const styles = StyleSheet.create({
   buttonsContainer: {
     flexDirection: 'row',
   },
-  buttonContainer : {
-    flex: 1
-  }
+  buttonContainer: {
+    flex: 1,
+  },
 });
